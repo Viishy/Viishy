@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Viishy</h1>
+<h1 align="center">Hey there 👋 I'm Vishnu</h1>
 
 <p align="center">
 🚀 A passionate <b>Customer Success Professional</b>, <b>Problem Solver</b>, and <b>Technophile</b><br>
@@ -21,7 +21,7 @@
 ### 🧰 My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,js,html,css,wordpress,git,github,zendesk,salesforce,vue" />
+  <img src="https://skillicons.dev/icons?i=mysql,js,html,css,wordpress,git,github,zendesk,salesforce,vue,VScode" />
 </p>
 
 ---
@@ -30,8 +30,7 @@
 
 <p align="center">
   <a href="https://viishy.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-resume-link.com" target="_blank"><img src="https://img.shields.io/badge/Resume-📄-orange?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/vishnu-kumar-787793297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
