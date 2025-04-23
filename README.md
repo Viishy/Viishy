@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Hey there 👋 I'm Vishnu</h1>
 
 <p align="center">
