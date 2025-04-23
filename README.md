@@ -21,7 +21,7 @@
 ### 🧰 My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,js,html,css,wordpress,git,github,zendesk,salesforce,vue,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,js,html,css,wordpress,git,vue,vscode,firebase" />
 </p>
 
 ---
